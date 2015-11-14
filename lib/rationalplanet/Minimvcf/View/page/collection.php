@@ -1,0 +1,3 @@
+<p>
+    You've got collection here, duud...
+</p>

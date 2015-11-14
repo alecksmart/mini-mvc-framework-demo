@@ -1,0 +1,27 @@
+{
+    "name": "alecksmart/minimvcf",
+    "type": "application",
+    "description": "[minimvcf] is an MVC mini-framework for misc demo and educational purposes",
+    "keywords": ["cms", "photo", "gallery"],
+    "homepage": "http://www.rationalplanet.com/",
+    "license": "MIT, Commercial",
+    "authors": [
+        {
+            "name": "Alexander Missa",
+            "email": "rationalplanet@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.14",
+        "firephp/firephp-core": "^0.4.0",
+        "desarrolla2/cache": "^2.0",
+        "michelf/php-markdown": "^1.5",
+        "predis/predis": "^1.0"
+    },
+    "autoload": {
+        "files": [
+            "vendor/firephp/firephp-core/lib/FirePHPCore/fb.php",
+            "lib/autoload.php"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Minimvcf",
+  "version": "0.0.1",
+  "description": "[minimvcf] is an MVC mini-framework for misc demo and educational purposes",
+  "license": "Creative Commons",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "css",
+    "js",
+    "lib",
+    "components",
+    "mediafiles",
+    "template",
+    "vendor",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "namespace-js": "~1.1.0"
+  },
+  "authors": [
+    "alecksmart <info@rationalplanet.com>"
+  ],
+  "main": "js/main.js",
+  "moduleType": [],
+  "keywords": [
+    "php",
+    "gallery",
+    "infinite",
+    "scroll"
+  ],
+  "homepage": "http://www.rationalplanet.com"
+}
