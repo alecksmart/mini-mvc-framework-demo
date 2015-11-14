@@ -9,7 +9,8 @@ An educational- and demo-purpose MVC mini-framework
 - PHP 5.6+
 - PSR2 and PSR7
 - MVC structure and several other programming patterns demo
-- Very basic router, no dispatcher, no DI, no event manager (all possible to be added)
+- Very basic router, no dispatcher, no dependency injections, no event manager (all possible to be added)
+- Routing configuration only for internal purposes
 - No database
 - FirePHP used for debugging
 - The high load capable site, caching-ready (close to be implemented)
