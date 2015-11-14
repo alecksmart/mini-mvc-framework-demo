@@ -13,7 +13,7 @@ An educational- and demo-purpose MVC mini-framework
 - No database
 - FirePHP used for debugging
 - The high load capable site, caching-ready (close to be implemented)
-- OOP design minimalistic approach - new classes introduced only if there is need to make them
+- OOP design minimalistic greedy approach
 - Clone to install
 
     *   $ git clone https://github.com/alecksmart/minimvcf.git
