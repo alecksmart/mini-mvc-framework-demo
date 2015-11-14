@@ -1,5 +1,9 @@
-minimvcf: An educational- and demo-purpose MVC mini-framework
-=============================================================
+minimvcf
+========
+
+An educational- and demo-purpose MVC mini-framework
+---------------------------------------------------
+
 - Creative Commons license
 - PHP OOP, composer, bower, unit tests
 - PHP 5.6+
@@ -10,7 +14,7 @@ minimvcf: An educational- and demo-purpose MVC mini-framework
 - FirePHP used for debugging
 - The high load capable site, caching-ready (close to be implemented)
 - OOP design minimalistic approach - new classes introduced only if there is need to make them
-- Fully workable, clone to install
+- Clone to install
 
     *   $ git clone https://github.com/alecksmart/minimvcf.git
     *   $ composer install
@@ -21,12 +25,12 @@ minimvcf: An educational- and demo-purpose MVC mini-framework
 - Seriously, use XXX framework instead
 
 TODO
-====
+----
 
 - PHPUnit demo
 - karma/protractor demo
 
 CREDITS
-=======
+-------
 
-(C) Alexander Missa, [rationalplanet.com](http://www.rationalplanet.com/ "rationalplanet.com")
+Alexander Missa, [rationalplanet.com](http://www.rationalplanet.com/ "rationalplanet.com")
